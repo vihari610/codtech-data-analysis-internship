@@ -2,6 +2,9 @@ CODTECH Data Analysis Internship – Final Submission
 
 Welcome! This repository contains my completed tasks for the **CODTECH Data Analysis Internship**. All four required tasks have been completed using tools like PySpark, Scikit-learn, Power BI, and NLP libraries (VADER).
 
+Due to GitHub upload limits, the dataset (`IMDB Dataset.csv`) used in these tasks is stored on Google Drive:
+
+🔗 [Download Dataset (63 MB)](https://drive.google.com/file/d/1pEb8lwSBY12PHAlJCV57YAyOw_g-w-NZ/view?usp=drive_link)
 Tasks Overview
 
 ### Task 1: Big Data Analysis using PySpark
